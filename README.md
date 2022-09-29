@@ -1,1 +1,0 @@
-Currículo da Semanada DEV EBAC
