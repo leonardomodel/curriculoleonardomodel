@@ -89,7 +89,7 @@ body {
     align-items: center;
     color: #d6dbdfaf;
     letter-spacing: 1px;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 .contact-info ul li i,
@@ -105,7 +105,7 @@ body {
 .skills ul li p {
     padding: .4rem 0;
     color: #d6dbdfaf;
-    font-size: 18px;
+    font-size: 16px;
     letter-spacing: 1px;
     display: flex;
     align-items: center;
